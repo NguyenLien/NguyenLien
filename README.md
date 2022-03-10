@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lien 👋
 
 <!--
 **NguyenLien/NguyenLien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :cactus: I love programming, technologies, life science and nature
+- :heart_on_fire: I have strong desire to learn and develop everyday
+- :rocket: I'm currently looking for a position to develop and bring values
+- :house_with_garden: How to find me: [LinkedIn](https://www.linkedin.com/in/thi-phuong-lien-nguyen/)
+
